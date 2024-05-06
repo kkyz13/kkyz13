@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I'm the guy who "cut off" Andy Serkis' arm in Avengers: Age of Ultron (digitally removed his arm)
 
 ## Technologies Used:
-![image](https://github.com/kkyz13/kkyz13/assets/155720573/d44d2b60-8da0-4db1-8a6d-25d43ac15402)
+![image](https://github.com/kkyz13/kkyz13/assets/155720573/d44d2b60-8da0-4db1-8a6d-25d43ac15402) <br/>
 Huge fan of React and Bootstrap (Tailwind is way too wordy!)
 <!--
 **kkyz13/kkyz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
