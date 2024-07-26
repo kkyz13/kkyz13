@@ -1,6 +1,7 @@
 ## Hello there 👳‍♂️
 
-- 🌱 I’m currently learning TypeScript and Angular!
+- 🌱 I’m currently learning Ruby on Rails!
+- ❤ Fan of React.JS! 
 - 👯 I’m looking to help backend with a stylish frontend!
 - 🤔 I’m looking for help with Career Advice!
 - 💬 Ask me about Design, Art, or Visual Effects! I've 10 years experience and worked with award winning peeps!
